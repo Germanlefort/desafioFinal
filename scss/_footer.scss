@@ -1,0 +1,37 @@
+.pie {
+	padding: 25px;
+
+}
+.pie__icon__sm{
+	whidth:30px;
+
+}
+.pie__titulo--md{
+display: inline-block;
+margin-right: 20px;
+font-size: 4rem;
+box-sizing:border-box;
+}
+
+.pie a{
+	text-decoration:none ;
+}
+ 
+ .w-100{ width: 100%}
+ .ubicacion{ 
+ 	/*margin-bottom: 14px*/; }
+ 	.mapa1{
+	overflow: hidden;
+	padding-bottom: 50%;
+	position: relative;
+	height: 0;
+	margin: 10px 30px;
+	margin-bottom: 20px
+}
+.mapa1 iframe{
+	left:0;
+	top:0;
+	height: 100%;
+	width: 100%;
+	position: absolute
+} 
